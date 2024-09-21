@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppBanHang</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="no_account_description">Thông báo nếu chưa có tài khoản</string>
+    <string name="register_description">Bấm vào đây để đăng ký tài khoản mới</string>
+</resources>
